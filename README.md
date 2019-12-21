@@ -1,4 +1,4 @@
-# Rasyidf Localization
+# SmallLockGo
 
 Fast and simple localization framework.
 
@@ -8,7 +8,7 @@ Fast and simple localization framework.
 To use this framework. add nuget pack package:
 
 ```powershell
-Install-Package Rasyidf.Localization
+Install-Package SmallLockGo
 ```
 
 Then register the the services on App.cs
@@ -86,9 +86,9 @@ All Done :)
 
 ## Authors
 
-* **Rasyid, Muhammad Fahmi** - *Initial work* - [Rasyidf](https://github.com/rasyidf)
+* **SmallLockGo, Aboy** - *Initial work* - [SmallLockGo](https://github.com/smalllockgo)
 
-See also the list of [contributors](https://github.com/rasyidf/rasyidf.Localization/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SmallLockGo/RubberLockGo/contributors) who participated in this project.
 
 ## License
 
@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-See list of third party components for [aditional acknowledgements](https://github.com/rasyidf/rasyidf.Localization/wiki/List-of-Contributors)
+See list of third party components for [aditional acknowledgements](https://github.com/SmallLockGo/RubberLockGo/wiki/List-of-Contributors)
